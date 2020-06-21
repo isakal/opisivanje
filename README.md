@@ -4,7 +4,7 @@ This project is as a reminder for our DM to **describe** more during combat.
 ## Prerequisites
 System dependencies:
 - [Python 3+](https://python.org)
-- [espeak]() *(this is a dependency for Linux operatings systems)*
+- [espeak](http://espeak.sourceforge.net/) *(this is a dependency for Linux operatings systems)*
 
 Python dependencies:
 - [pyttsx3](https://github.com/nateshmbhat/pyttsx3)
